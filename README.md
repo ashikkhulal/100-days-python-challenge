@@ -20,7 +20,7 @@ Day 2 Topics are:
 - Mathematical Operators in Python
 - Number Manipulation and f-Strings in Python
 
-Day 2 Project: [](./day-2/project/)
+Day 2 Project: [Tip Calculator](./day-2/project/)
 
 
 
