@@ -12,5 +12,15 @@ Day 1 Topics are:
 
 Day 1 Project: [Band Name Generator](./day-1/project/)
 
- 
+## [DAY-2](./day-2/)
+
+Day 2 Topics are:
+
+- Data Types
+- Mathematical Operators in Python
+- Number Manipulation and f-Strings in Python
+
+Day 2 Project: [](./day-2/project/)
+
+
 
