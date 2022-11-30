@@ -32,3 +32,14 @@ Day 3 Topics are:
 - Logical operators
 
 Day 3 Project: [Treasure Island](./day-3/project/)
+
+## [DAY-4](./day-4/)
+
+Day 4 Topics are:
+
+- Random module
+- Own module
+- Data structure
+
+Day 4 Project: [Rock Paper Scissor](./day-4/project/)
+
