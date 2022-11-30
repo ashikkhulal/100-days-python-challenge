@@ -22,5 +22,13 @@ Day 2 Topics are:
 
 Day 2 Project: [Tip Calculator](./day-2/project/)
 
+## [DAY-3](./day-3/)
 
+Day 3 Topics are:
 
+- If / else statements
+- Comparision Operators
+- Nested if and elif statements
+- Logical operators
+
+Day 3 Project: [Treasure Island](./day-3/project/)
