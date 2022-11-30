@@ -32,6 +32,3 @@ Day 3 Topics are:
 - Logical operators
 
 Day 3 Project: [Treasure Island](./day-3/project/)
-
-
-
