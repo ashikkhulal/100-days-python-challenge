@@ -20,7 +20,18 @@ Day 2 Topics are:
 - Mathematical Operators in Python
 - Number Manipulation and f-Strings in Python
 
-Day 2 Project: [](./day-2/project/)
+Day 2 Project: [Tip Calculator](./day-2/project/)
+
+## [DAY-3](./day-3/)
+
+Day 3 Topics are:
+
+- If / else statements
+- Comparision Operators
+- Nested if and elif statements
+- Logical operators
+
+Day 3 Project: [Treasure Island](./day-3/project/)
 
 
 
