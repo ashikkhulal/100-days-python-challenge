@@ -43,3 +43,12 @@ Day 4 Topics are:
 
 Day 4 Project: [Rock Paper Scissor](./day-4/project/)
 
+## [DAY-5](./day-5/)
+
+Day 5 Topics are:
+
+- For loop with python
+- Range() function
+
+Day 5 Project: [Password Generator](./day-5/project/)
+
