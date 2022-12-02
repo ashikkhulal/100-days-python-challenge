@@ -52,3 +52,12 @@ Day 5 Topics are:
 
 Day 5 Project: [Password Generator](./day-5/project/)
 
+## [DAY-6](./day-6/)
+
+Day 6 Topics are:
+
+- Functions
+- Indentation in python
+- While loop
+
+Day 6 Project: [Lost in a Maze](./day-6/project/)
