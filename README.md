@@ -61,3 +61,12 @@ Day 6 Topics are:
 - While loop
 
 Day 6 Project: [Lost in a Maze](./day-6/project/)
+
+## [DAY-7](./day-7/)
+
+Day 7 Topics are:
+
+- Flow chart for problem solving
+- Hangman Problem solving in steps
+
+Day 7 Project: [Hangman](./day-7/project/)
