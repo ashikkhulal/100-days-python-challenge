@@ -67,6 +67,16 @@ Day 6 Project: [Lost in a Maze](./day-6/project/)
 Day 7 Topics are:
 
 - Flow chart for problem solving
-- Hangman Problem solving in steps
+- Hangman problem solving in steps
 
 Day 7 Project: [Hangman](./day-7/project/)
+
+## [DAY-8](./day-8/)
+
+Day 8 Topics are:
+
+- Functions with inputs
+- Positional vs. keywords arguments
+- Caesar cipher problem solving in steps
+
+Day 8 Project: [Caesar Cipher](./day-8/project/)
