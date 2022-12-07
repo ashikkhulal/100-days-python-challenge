@@ -80,3 +80,13 @@ Day 8 Topics are:
 - Caesar cipher problem solving in steps
 
 Day 8 Project: [Caesar Cipher](./day-8/project/)
+
+## [DAY-9](./day-9/)
+
+Day 9 Topics are:
+
+- Python dictionaries
+- Nesting lists and dictionaries
+- Secret auction program flow chart
+
+Day 9 Project: [Secret Auction](./day-9/project/)
