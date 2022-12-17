@@ -90,3 +90,15 @@ Day 9 Topics are:
 - Secret auction program flow chart
 
 Day 9 Project: [Secret Auction](./day-9/project/)
+
+## [DAY-10](./day-10/)
+
+Day 10 Topics are:
+
+- Functions with outputs
+- Functions with multiple returns
+- Docstrings
+- Print vs return
+- While loops, flags and recursion
+
+Day 10 Project: [Calculator](./day-10/project/)
